@@ -6,5 +6,6 @@ public class GitTest2 {
 		
 		System.out.println("Testing a commit");
 		System.out.println("Adding a line");
+		System.out.println("And another");
 	}
 }
