@@ -4,7 +4,7 @@ public class GitTest {
 	
 	public static void main(String[] args) {
 		
-		System.out.println("Push to Git");
+		System.out.println("Testing a commit");
 	}
 
 }
